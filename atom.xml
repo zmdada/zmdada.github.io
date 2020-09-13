@@ -3,11 +3,11 @@
   <title>ZM的站点</title>
   
   
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://zmdada.gitee.io/child/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-09-09T15:13:33.894Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://zmdada.gitee.io/child/"/>
+  <updated>2020-09-13T13:51:01.847Z</updated>
+  <id>http://zmdada.gitee.io/child/</id>
   
   <author>
     <name>ZMDADA</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>上传测试</title>
-    <link href="http://yoursite.com/2020/08/01/%E4%B8%8A%E4%BC%A0%E6%B5%8B%E8%AF%951%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://yoursite.com/2020/08/01/%E4%B8%8A%E4%BC%A0%E6%B5%8B%E8%AF%951%20-%20%E5%89%AF%E6%9C%AC/</id>
+    <link href="http://zmdada.gitee.io/child/2020/08/01/uploadtest-1/"/>
+    <id>http://zmdada.gitee.io/child/2020/08/01/uploadtest-1/</id>
     <published>2020-08-01T12:40:58.000Z</published>
-    <updated>2020-09-09T15:13:33.894Z</updated>
+    <updated>2020-09-13T13:51:01.847Z</updated>
     
     <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>测试！测试！</p><a id="more"></a><hr><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><p>测试！测试！</p><hr><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>hexo zm站点搭建测试！</p>]]></content>
     
@@ -31,14 +31,14 @@
     
     
     
-    <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="http://zmdada.gitee.io/child/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>音乐测试</title>
-    <link href="http://yoursite.com/2020/08/01/%E9%9F%B3%E4%B9%90%E6%8F%92%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%B5%8B%E8%AF%95/"/>
-    <id>http://yoursite.com/2020/08/01/%E9%9F%B3%E4%B9%90%E6%8F%92%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%B5%8B%E8%AF%95/</id>
+    <link href="http://zmdada.gitee.io/child/2020/08/01/uploadtest-4/"/>
+    <id>http://zmdada.gitee.io/child/2020/08/01/uploadtest-4/</id>
     <published>2020-08-01T06:26:42.000Z</published>
     <updated>2020-08-01T06:28:20.000Z</updated>
     
@@ -53,14 +53,29 @@
     
     
     
-    <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="http://zmdada.gitee.io/child/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随笔添加测试</title>
+    <link href="http://zmdada.gitee.io/child/2020/08/01/uploadtest-2/"/>
+    <id>http://zmdada.gitee.io/child/2020/08/01/uploadtest-2/</id>
+    <published>2020-08-01T05:08:45.000Z</published>
+    <updated>2020-08-01T06:55:08.000Z</updated>
+    
+    
+    
+    
+    
+    <category term="随笔" scheme="http://zmdada.gitee.io/child/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>markdown书写测试</title>
-    <link href="http://yoursite.com/2020/08/01/%E6%96%87%E7%AB%A0%E4%B9%A6%E5%86%99%E6%B5%8B%E8%AF%95/"/>
-    <id>http://yoursite.com/2020/08/01/%E6%96%87%E7%AB%A0%E4%B9%A6%E5%86%99%E6%B5%8B%E8%AF%95/</id>
+    <link href="http://zmdada.gitee.io/child/2020/08/01/uploadtest-3/"/>
+    <id>http://zmdada.gitee.io/child/2020/08/01/uploadtest-3/</id>
     <published>2020-08-01T05:08:45.000Z</published>
     <updated>2020-08-01T05:53:40.000Z</updated>
     
@@ -72,29 +87,14 @@
     
     
     
-    <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>随笔添加测试</title>
-    <link href="http://yoursite.com/2020/08/01/%E9%9A%8F%E7%AC%94%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E6%B5%8B%E8%AF%95/"/>
-    <id>http://yoursite.com/2020/08/01/%E9%9A%8F%E7%AC%94%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E6%B5%8B%E8%AF%95/</id>
-    <published>2020-08-01T05:08:45.000Z</published>
-    <updated>2020-08-01T06:55:08.000Z</updated>
-    
-    
-    
-    
-    
-    <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="测试" scheme="http://zmdada.gitee.io/child/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>上传测试</title>
-    <link href="http://yoursite.com/2020/07/31/%E4%B8%8A%E4%BC%A0%E6%B5%8B%E8%AF%951/"/>
-    <id>http://yoursite.com/2020/07/31/%E4%B8%8A%E4%BC%A0%E6%B5%8B%E8%AF%951/</id>
+    <link href="http://zmdada.gitee.io/child/2020/07/31/uploadtest/"/>
+    <id>http://zmdada.gitee.io/child/2020/07/31/uploadtest/</id>
     <published>2020-07-31T12:40:58.000Z</published>
     <updated>2020-07-31T15:36:30.000Z</updated>
     
@@ -106,7 +106,7 @@
     
     
     
-    <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="http://zmdada.gitee.io/child/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   

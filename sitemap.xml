@@ -2,49 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/link/index.html</loc>
+    <loc>http://zmdada.gitee.io/child/2020/08/01/uploadtest-1/</loc>
     
     <lastmod>2020-09-13</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/08/01/%E4%B8%8A%E4%BC%A0%E6%B5%8B%E8%AF%951%20-%20%E5%89%AF%E6%9C%AC/</loc>
+    <loc>http://zmdada.gitee.io/child/categories/index.html</loc>
     
-    <lastmod>2020-09-09</lastmod>
+    <lastmod>2020-09-13</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/bangumis/index.html</loc>
+    <loc>http://zmdada.gitee.io/child/about/index.html</loc>
+    
+    <lastmod>2020-09-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zmdada.gitee.io/child/zbout/index.html</loc>
+    
+    <lastmod>2020-09-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zmdada.gitee.io/child/link/index.html</loc>
+    
+    <lastmod>2020-09-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zmdada.gitee.io/child/bangumis/index.html</loc>
     
     <lastmod>2020-08-08</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/08/01/%E9%9A%8F%E7%AC%94%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://zmdada.gitee.io/child/2020/08/01/uploadtest-2/</loc>
     
     <lastmod>2020-08-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/08/01/%E9%9F%B3%E4%B9%90%E6%8F%92%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://zmdada.gitee.io/child/2020/08/01/uploadtest-4/</loc>
     
     <lastmod>2020-08-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/08/01/%E6%96%87%E7%AB%A0%E4%B9%A6%E5%86%99%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://zmdada.gitee.io/child/2020/08/01/uploadtest-3/</loc>
     
     <lastmod>2020-08-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/07/31/%E4%B8%8A%E4%BC%A0%E6%B5%8B%E8%AF%951/</loc>
+    <loc>http://zmdada.gitee.io/child/2020/07/31/uploadtest/</loc>
     
     <lastmod>2020-07-31</lastmod>
     
@@ -52,7 +73,7 @@
   
 
   <url>
-    <loc>http://yoursite.com/</loc>
+    <loc>http://zmdada.gitee.io/child</loc>
     <lastmod>2020-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -60,14 +81,14 @@
 
   
   <url>
-    <loc>http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://zmdada.gitee.io/child/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>http://zmdada.gitee.io/child/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2020-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
