@@ -3,11 +3,11 @@
   <title>ZM的站点</title>
   
   
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://zmdada.gitee.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://zmdada.gitee.io/"/>
   <updated>2020-09-13T13:51:01.847Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://zmdada.gitee.io/</id>
   
   <author>
     <name>ZMDADA</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>上传测试</title>
-    <link href="http://yoursite.com/2020/08/01/uploadtest-1/"/>
-    <id>http://yoursite.com/2020/08/01/uploadtest-1/</id>
+    <link href="http://zmdada.gitee.io/2020/08/01/uploadtest-1/"/>
+    <id>http://zmdada.gitee.io/2020/08/01/uploadtest-1/</id>
     <published>2020-08-01T12:40:58.000Z</published>
     <updated>2020-09-13T13:51:01.847Z</updated>
     
@@ -31,14 +31,14 @@
     
     
     
-    <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="http://zmdada.gitee.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>音乐测试</title>
-    <link href="http://yoursite.com/2020/08/01/uploadtest-4/"/>
-    <id>http://yoursite.com/2020/08/01/uploadtest-4/</id>
+    <link href="http://zmdada.gitee.io/2020/08/01/uploadtest-4/"/>
+    <id>http://zmdada.gitee.io/2020/08/01/uploadtest-4/</id>
     <published>2020-08-01T06:26:42.000Z</published>
     <updated>2020-08-01T06:28:20.000Z</updated>
     
@@ -53,29 +53,14 @@
     
     
     
-    <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>随笔添加测试</title>
-    <link href="http://yoursite.com/2020/08/01/uploadtest-2/"/>
-    <id>http://yoursite.com/2020/08/01/uploadtest-2/</id>
-    <published>2020-08-01T05:08:45.000Z</published>
-    <updated>2020-08-01T06:55:08.000Z</updated>
-    
-    
-    
-    
-    
-    <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="测试" scheme="http://zmdada.gitee.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>markdown书写测试</title>
-    <link href="http://yoursite.com/2020/08/01/uploadtest-3/"/>
-    <id>http://yoursite.com/2020/08/01/uploadtest-3/</id>
+    <link href="http://zmdada.gitee.io/2020/08/01/uploadtest-3/"/>
+    <id>http://zmdada.gitee.io/2020/08/01/uploadtest-3/</id>
     <published>2020-08-01T05:08:45.000Z</published>
     <updated>2020-08-01T05:53:40.000Z</updated>
     
@@ -87,14 +72,29 @@
     
     
     
-    <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="http://zmdada.gitee.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随笔添加测试</title>
+    <link href="http://zmdada.gitee.io/2020/08/01/uploadtest-2/"/>
+    <id>http://zmdada.gitee.io/2020/08/01/uploadtest-2/</id>
+    <published>2020-08-01T05:08:45.000Z</published>
+    <updated>2020-08-01T06:55:08.000Z</updated>
+    
+    
+    
+    
+    
+    <category term="随笔" scheme="http://zmdada.gitee.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>上传测试</title>
-    <link href="http://yoursite.com/2020/07/31/uploadtest/"/>
-    <id>http://yoursite.com/2020/07/31/uploadtest/</id>
+    <link href="http://zmdada.gitee.io/2020/07/31/uploadtest/"/>
+    <id>http://zmdada.gitee.io/2020/07/31/uploadtest/</id>
     <published>2020-07-31T12:40:58.000Z</published>
     <updated>2020-07-31T15:36:30.000Z</updated>
     
@@ -106,7 +106,7 @@
     
     
     
-    <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="http://zmdada.gitee.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
