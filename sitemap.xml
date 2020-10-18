@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zmdada.gitee.io/2020/10/15/ML-1/</loc>
+    
+    <lastmod>2020-10-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zmdada.gitee.io/2020/08/01/uploadtest-1/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zmdada.gitee.io/2020/08/01/uploadtest-4/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zmdada.gitee.io/2020/08/01/uploadtest-3/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zmdada.gitee.io/movies/index.html</loc>
     
     <lastmod>2020-10-09</lastmod>
@@ -44,13 +72,6 @@
   </url>
   
   <url>
-    <loc>http://zmdada.gitee.io/2020/08/01/uploadtest-1/</loc>
-    
-    <lastmod>2020-09-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://zmdada.gitee.io/zbout/index.html</loc>
     
     <lastmod>2020-09-13</lastmod>
@@ -72,20 +93,6 @@
   </url>
   
   <url>
-    <loc>http://zmdada.gitee.io/2020/08/01/uploadtest-4/</loc>
-    
-    <lastmod>2020-08-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zmdada.gitee.io/2020/08/01/uploadtest-3/</loc>
-    
-    <lastmod>2020-08-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://zmdada.gitee.io/2020/07/31/uploadtest/</loc>
     
     <lastmod>2020-07-31</lastmod>
@@ -95,7 +102,7 @@
 
   <url>
     <loc>http://zmdada.gitee.io/</loc>
-    <lastmod>2020-10-09</lastmod>
+    <lastmod>2020-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -103,18 +110,39 @@
   
   <url>
     <loc>http://zmdada.gitee.io/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-10-09</lastmod>
+    <lastmod>2020-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://zmdada.gitee.io/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2020-10-09</lastmod>
+    <lastmod>2020-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://zmdada.gitee.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://zmdada.gitee.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://zmdada.gitee.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-10-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
