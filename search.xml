@@ -4,6 +4,81 @@
   
     
     <entry>
+      <title>动态库与静态库对比</title>
+      <link href="2021/03/17/lib-2/"/>
+      <url>2021/03/17/lib-2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="动态库与静态库对比"><a href="#动态库与静态库对比" class="headerlink" title="动态库与静态库对比"></a>动态库与静态库对比</h1><h2 id="编译"><a href="#编译" class="headerlink" title="编译"></a>编译</h2><p>静态库、动态库区别来自链接阶段如何处理，链接成可执行程序。分别称为静态链接方式和动态链接方式。</p><h2 id="优缺点"><a href="#优缺点" class="headerlink" title="优缺点"></a>优缺点</h2><p>优点：</p><ul><li>静态库被打包到应用程序中加载速度快</li><li>发布程序无需提供静态库，移植方便</li></ul><p>缺点：</p><ul><li>消耗系统资源，浪费内存</li><li>更新、部署、发布麻烦</li></ul><h2 id="动态库的优缺点"><a href="#动态库的优缺点" class="headerlink" title="动态库的优缺点"></a>动态库的优缺点</h2><p>优点：</p><ul><li>可以实现进程间资源共享（共享库）</li><li>更新、部署、发布简单</li><li>可以控制何时加载动态库</li></ul><p>缺点：</p><ul><li>加载速度比静态库慢</li><li>发布程序时需要提供依赖的动态库</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> CPP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CPP </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>动态库的制作</title>
+      <link href="2021/03/17/lib-1/"/>
+      <url>2021/03/17/lib-1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="动态库的制作"><a href="#动态库的制作" class="headerlink" title="动态库的制作"></a>动态库的制作</h1><p> 命名规则：</p><ul><li>Linux: libXXX.so</li><li>windows: libXXX.dll</li></ul><p>动态库的制作：</p><ul><li><p>gcc 得到.o 文件,得到和位置无关的代码</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">gcc  -c -fpic&#x2F;-fPIC a.c b.c</span><br></pre></td></tr></table></figure></li><li><p>gcc 得到动态库</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">gcc -shared a.o b.o -o libXXX.so</span><br></pre></td></tr></table></figure></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> CPP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CPP </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>gcc总结</title>
+      <link href="2021/03/17/gcc-1/"/>
+      <url>2021/03/17/gcc-1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="GCC总结"><a href="#GCC总结" class="headerlink" title="GCC总结"></a>GCC总结</h1><h2 id="什么是GCC"><a href="#什么是GCC" class="headerlink" title="什么是GCC"></a>什么是GCC</h2><ul><li>GCC 原名为 GNU C语言编译器（GNU C Compiler） </li><li>GCC（GNU Compiler Collection，GNU编译器套件）是由 GNU 开发的编程语言译器。GNU 编译器套件包括 C、C++、Objective-C、Java、Ada 和 Go 语言前端，也包括了这些语言的库（如 libstdc++，libgcj等）</li><li>GCC 不仅支持 C 的许多“方言”，也可以区别不同的 C 语言标准；可以使用命令行选项来控制编译器在翻译源代码时应该遵循哪个 C 标准。例如，当使用命令行参数<code>-std=c99</code> 启动 GCC 时，编译器支持 C99 标准。</li><li>安装命令<blockquote><p>sudo apt install gcc g++ （版本 &gt; 4.8.5） </p></blockquote></li><li>查看版本 <blockquote><p>gcc/g++ -v/–version</p></blockquote></li></ul><p><img src= "/img/loading.gif" data-lazy-src="../img/imgfile/gcc01.jpg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> CPP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CPP </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>C++ 底层实现通用数组类</title>
       <link href="2021/01/25/CPP-1/"/>
       <url>2021/01/25/CPP-1/</url>
