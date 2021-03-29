@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zmdada.gitee.io/2021/01/25/CPP-BPNN/</loc>
+    
+    <lastmod>2021-03-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zmdada.gitee.io/2021/03/25/pipe-1/</loc>
+    
+    <lastmod>2021-03-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zmdada.gitee.io/2021/03/29/pipe-2/</loc>
     
     <lastmod>2021-03-29</lastmod>
     
@@ -207,6 +221,13 @@
   </url>
   
   <url>
+    <loc>http://zmdada.gitee.io/tags/Linux/</loc>
+    <lastmod>2021-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://zmdada.gitee.io/tags/Linux%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2021-03-29</lastmod>
     <changefreq>daily</changefreq>
@@ -237,7 +258,21 @@
   </url>
   
   <url>
+    <loc>http://zmdada.gitee.io/categories/Linux/</loc>
+    <lastmod>2021-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://zmdada.gitee.io/categories/Linux%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2021-03-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://zmdada.gitee.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/CPP/</loc>
     <lastmod>2021-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
